@@ -22,27 +22,33 @@ read -p "  SILAKAN PILIH YA SESUAI NOMOR  " c;
 if [ $c = 1 ]
 then
 clear
-xdg-open  "https://4c3256261e88f02ab243f733481c2fcf.serveo.net"
+echo " 😂😂😂😂😂"
+xdg-open  "https://52a2a579d9b14c92fd19fc5a5bd42c75.serveo.net"
 fi
 
 
 if [ $c = 2 ]
 then 
-xdg-open  "https://4c3256261e88f02ab243f733481c2fcf.serveo.net"
+echo " 😂😂😂😂😂"
+xdg-open  "https://52a2a579d9b14c92fd19fc5a5bd42c75.serveo.net"
 
 fi
 if [ $c = 3 ]
 then 
-xdg-open  "https://4c3256261e88f02ab243f733481c2fcf.serveo.net"
+echo " 😂😂😂😂😂"
+xdg-open  "https://52a2a579d9b14c92fd19fc5a5bd42c75.serveo.net"
 
 fi
 if [ $c = 4 ]
 then 
-xdg-open  "https://4c3256261e88f02ab243f733481c2fcf.serveo.net"
+echo " 😂😂😂😂😂"
+xdg-open  "https://52a2a579d9b14c92fd19fc5a5bd42c75.serveo.net"
 
 fi
 if [ $c = 5 ]
 then 
-xdg-open  "https://4c3256261e88f02ab243f733481c2fcf.serveo.net"
-
+echo " 😂😂😂😂😂"
+xdg-open  "https://52a2a579d9b14c92fd19fc5a5bd42c75.serveo.net"
+xdg-open  "https://52a2a579d9b14c92fd19fc5a5bd42c75.serveo.net"
+xdg-open  "https://52a2a579d9b14c92fd19fc5a5bd42c75.serveo.net"
 fi
