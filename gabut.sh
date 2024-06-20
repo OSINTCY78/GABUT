@@ -23,32 +23,37 @@ if [ $c = 1 ]
 then
 clear
 echo " 😂😂😂😂😂"
-xdg-open  "https://52a2a579d9b14c92fd19fc5a5bd42c75.serveo.net"
+xdg-open  "https://c9d45bbc985156340ad329bbbc0e7e69.serveo.net"
+echo " 😂😂😂😂😂"
+
 fi
 
 
 if [ $c = 2 ]
 then 
 echo " 😂😂😂😂😂"
-xdg-open  "https://52a2a579d9b14c92fd19fc5a5bd42c75.serveo.net"
-
+xdg-open  "https://c9d45bbc985156340ad329bbbc0e7e69.serveo.net"
+echo " 😂😂😂😂😂"
 fi
 if [ $c = 3 ]
 then 
 echo " 😂😂😂😂😂"
-xdg-open  "https://52a2a579d9b14c92fd19fc5a5bd42c75.serveo.net"
-
+xdg-open  "https://c9d45bbc985156340ad329bbbc0e7e69.serveo.net"
+echo " 😂😂😂😂😂"
 fi
 if [ $c = 4 ]
 then 
 echo " 😂😂😂😂😂"
-xdg-open  "https://52a2a579d9b14c92fd19fc5a5bd42c75.serveo.net"
-
+xdg-open  "https://c9d45bbc985156340ad329bbbc0e7e69.serveo.net"
+echo " 😂😂😂😂😂"
 fi
 if [ $c = 5 ]
 then 
+
+xdg-open  "https://c9d45bbc985156340ad329bbbc0e7e69.serveo.net"
+xdg-open  "https://c9d45bbc985156340ad329bbbc0e7e69.serveo.net"
+xdg-open  "https://c9d45bbc985156340ad329bbbc0e7e69.serveo.net "
 echo " 😂😂😂😂😂"
-xdg-open  "https://52a2a579d9b14c92fd19fc5a5bd42c75.serveo.net"
-xdg-open  "https://52a2a579d9b14c92fd19fc5a5bd42c75.serveo.net"
-xdg-open  "https://52a2a579d9b14c92fd19fc5a5bd42c75.serveo.net"
+
+
 fi
